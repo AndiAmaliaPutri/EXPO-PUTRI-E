@@ -1,6 +1,4 @@
-import {
-  AntDesign, Entypo, EvilIcons, Feather, FontAwesome, Foundation, Ionicons, MaterialCommunityIcons, MaterialIcons, Octicons,
-} from '@expo/vector-icons';
+import {AntDesign, Entypo, EvilIcons, Feather, FontAwesome, Foundation, Ionicons, MaterialCommunityIcons, MaterialIcons, Octicons} from '@expo/vector-icons';
 import React from 'react';
 import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
 
