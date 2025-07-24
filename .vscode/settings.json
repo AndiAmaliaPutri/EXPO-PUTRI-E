@@ -4,5 +4,6 @@
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
   },
-  "cmake.sourceDirectory": "C:/Users/ASUS/expo-putri-E/node_modules/expo-modules-core/android"
+  "cmake.sourceDirectory": "C:/Users/ASUS/expo-putri-E/node_modules/expo-modules-core/android",
+  "C_Cpp.errorSquiggles": "disabled"
 }
