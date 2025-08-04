@@ -1,17 +1,17 @@
 import { Image, ScrollView, StyleSheet, Text } from 'react-native';
 
-export default function Home() {
+export default function About() {
   return (
     <ScrollView contentContainerStyle={styles.container}>
-      <Text style={styles.title}>Universitas Muhammadiyah Makassar</Text>
+      <Text style={styles.title}>Tentang Aplikasi</Text>
 
       <Image source={require('../../assets/images/foto2.jpg')} style={styles.image} />
-      
 
       <Text style={styles.description}>
-        Unismuh Makassar merupakan salah satu perguruan tinggi swasta terbaik di Indonesia Timur. 
-        Berlokasi di Makassar, Sulawesi Selatan, universitas ini memiliki berbagai program studi dari berbagai fakultas. 
-        Dan di foto-foto yang ditampilkan ada ruang kelas, tampilan luar kampus, dan ada juga mushollah.
+        Aplikasi ini dibuat untuk memperkenalkan Universitas Muhammadiyah Makassar 
+        kepada pengguna. Dengan menampilkan informasi penting seperti profil kampus, 
+        galeri foto, serta fitur lainnya, aplikasi ini diharapkan dapat memberikan 
+        gambaran menyeluruh tentang Unismuh Makassar.
       </Text>
     </ScrollView>
   );
@@ -38,6 +38,5 @@ const styles = StyleSheet.create({
   description: {
     fontSize: 16,
     textAlign: 'justify',
-    marginTop: 10,
   },
 });
