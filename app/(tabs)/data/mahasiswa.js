@@ -41,11 +41,6 @@ const mahasiswa = [
     foto: "https://simak.unismuh.ac.id/upload/mahasiswa/105841116322.jpg?1754578505",
   },
   {
-    nama: "Andi Amalia Putri",
-    nim: "1058411173",
-    foto: "https://simak.unismuh.ac.id/upload/mahasiswa/105841117322.jpg?1754578505",
-  },
-  {
     nama: "Erlangga",
     nim: "105841117022",
     foto: "https://simak.unismuh.ac.id/upload/mahasiswa/105841117022.jpg?1754578505",
